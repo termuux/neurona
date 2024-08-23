@@ -1,1 +1,3 @@
-Simple Neural Network for weight
+# Neurona
+
+Neural network architecture prototyping application.
